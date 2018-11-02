@@ -1,0 +1,29 @@
+body{
+    background-color:pink;
+    background: url("https://images.pexels.com/photos/326055/pexels-photo-326055.jpeg?cs=srgb&dl=light-landscape-nature-326055.jpg&fm=jpg");
+     background-repeat:no-repeat;
+      background-size: 2300px;
+ border: 40px solid;
+  border: 2px solid;
+  color:black;
+  text-align:center;
+}
+h1 {
+    color:black;
+    font-family: 'Spicy Rice', cursive;
+}
+h2{
+    color:green;
+}
+h4{
+    color:green;
+}
+h5{
+    color:green;
+}
+p{
+    color:green;
+}
+body{
+    text-align:center;
+}
